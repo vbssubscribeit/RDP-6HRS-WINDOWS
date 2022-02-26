@@ -8,9 +8,9 @@ jobs:
     - name: Download Ngrok.
       run: |
         Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
-        Invoke-WebRequest https://raw.githubusercontent.com/HarChanel569/Rdp-Har-Chanel/main/start.bat -OutFile start.bat
-        Invoke-WebRequest https://raw.githubusercontent.com/HarChanel569/Rdp-Har-Chanel/main/download.jpeg -OutFile wallpaper.bat
-        Invoke-WebRequest https://raw.githubusercontent.com/HarChanel569/Rdp-Har-Chanel/main/loop.bat -OutFile loop.bat
+        Invoke-WebRequest https://raw.githubusercontent.com//Harchanel15/REPO-BULAN-MARET-BY-HAR-CHANEL/main/start.bat -OutFile start.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/Harchanel15/REPO-BULAN-MARET-BY-HAR-CHANEL/main/download.jpeg -OutFile wallpaper.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/Harchanel15/REPO-BULAN-MARET-BY-HAR-CHANEL/main/loop.bat -OutFile loop.bat
     - name: Extract Ngrok File.
       run: Expand-Archive ngrok.zip
     - name: Connect Ngrok.
