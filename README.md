@@ -1,31 +1,25 @@
-﻿   ⬇️⚠️ JANGAN LUPA KLIK LINK DIBAWAH INI⚠️⬇️
+Free Windows RDP 6 Hours
 
- https://youtube.com/channel/UCqK3KOcJI1dmbyuiTIzlKIA?sub_confirmation=1
+    Create RDP Windows 10 Ram 7GB 2 Core Cpu With Github:
 
-+ RDP Windows Gratis 6 Jam
+    Press the Fork Button to make RDP (For Android/HP Users Please Use Desktop Mode).
 
-+ Buat RDP Windows 10 Ram 7GB 2 Core Cpu Dengan Github:
+    visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
 
-+ Tekan Tombol Fork untuk membuat RDP (Bagi Pengguna Android/HP Disilahkan Pake Mode Desktop).
+    Inside this Repo Go to Settings > Secrets > New repository secret
 
-+ kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN
+    Fill Name: Enter NGROK_AUTH_TOKEN
 
-+ Di Dalam Repo ini Pergi ke Settings> Secrets> New repository secret
+    Fill Value: Visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste in the value
 
-+ isi Nama: Masukan NGROK_AUTH_TOKEN
+    Press Add secret
 
-+ isi Value: Kunjungi https://dashboard.ngrok.com/auth/your-authtoken Copy Dan Paste di dalam value
+    Go to Action <Click Select workflow< Select HASHMAXTECH, Press Run workflow
 
-+ Tekan Add secret
+    Refresh the Web/page and go to Har Pito > click build
 
-+ Pergi Ke Action <Klik Select workflow< Pilih Har Pito,Pencet Run workflow
+    Wait 1-5 minutes
 
-+ Refresh Web/halaman dan masuk ke Har Pito> klik build
+    Press the down arrow button that says (Connect RDP.) to get IP, User, Password.
 
-+ *Tunggu 1-5 menit*
-
-+ Tekan Tombol panah menghadap ke bawah Yg bertuliskan (Connect RDP.) Untuk Mendapatkan IP, User, Password.
-
-+  ```Peringatan jika Rdp close silahkan klik Action<Pilih Har Pito<Klik build, Klik titik tiga klik run-rensjob dan jalan kan lagi Rdp nya```
-
-
+    Warning if Rdp close please click Action <Select HASHMAXTECH <Click build, Click on the three dots click run-rensjob and run the Rdp again
